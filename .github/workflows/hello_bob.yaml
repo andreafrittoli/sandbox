@@ -11,5 +11,5 @@ jobs:
   hello:
     runs-on: [self-hosted, bob]
     steps:
-      - name: Hello Alice
+      - name: Hello Bob
         run: echo "こんにちは、ボブ"
